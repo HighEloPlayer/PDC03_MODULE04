@@ -9,7 +9,9 @@
         </Frame>
         <Button Text="Activity01-Listview" Clicked="OpenActivity01"/>
         <Button Text="Activity01-Listview" Clicked="OpenActivity02"/>
-       
+        <Button Text="Activity01-Navigation" Clicked="OpenActivity03"/>
+        <Button Text="Activity01-Carousel" Clicked="OpenActivity04"/>
+        <Button Text="Activity01-ListView" Clicked="OpenActivity05"/>
     </StackLayout>
 
 </ContentPage>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PDC03_MODULE04.DetailPage">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Name" FontSize="Medium" FontAttributes="Bold" HorizontalOptions="CenterAndExpand"/>
+                <Label Text="{Binding Name}" FontSize="Medium" FontAttributes="Bold"/>
+            </StackLayout>
+
+            
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Age" FontSize="Medium" FontAttributes="Bold" HorizontalOptions="CenterAndExpand"/>
+                    <Label Text="{Binding Age}" FontSize="Medium" FontAttributes="Bold"/>
+                </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Occupation" FontSize="Medium" FontAttributes="Bold" HorizontalOptions="CenterAndExpand"/>
+                <Label Text="{Binding Occupation}" FontSize="Medium" FontAttributes="Bold"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Country" FontSize="Medium" FontAttributes="Bold" HorizontalOptions="CenterAndExpand"/>
+                <Label Text="{Binding Country}" FontSize="Medium" FontAttributes="Bold"/>
+            </StackLayout>
+            <Button x:Name="closebutton" Text="Close" Clicked="OnClosedButton"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

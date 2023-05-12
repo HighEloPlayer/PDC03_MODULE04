@@ -15,3 +15,8 @@ C:\xampp\htdocs\PDC03\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\net
 C:\xampp\htdocs\PDC03\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\refint\PDC03_MODULE04.dll
 C:\xampp\htdocs\PDC03\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\PDC03_MODULE04.pdb
 C:\xampp\htdocs\PDC03\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\ref\PDC03_MODULE04.dll
+C:\xampp\htdocs\PDC03\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\activity03.xaml.g.cs
+C:\xampp\htdocs\PDC03\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\activity03Page2.xaml.g.cs
+C:\xampp\htdocs\PDC03\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\activity04.xaml.g.cs
+C:\xampp\htdocs\PDC03\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\activity05.xaml.g.cs
+C:\xampp\htdocs\PDC03\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\DetailPage.xaml.g.cs

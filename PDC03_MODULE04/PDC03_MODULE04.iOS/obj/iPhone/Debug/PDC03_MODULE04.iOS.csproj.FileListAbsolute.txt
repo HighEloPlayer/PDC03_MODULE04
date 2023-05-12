@@ -1,0 +1,13 @@
+C:\xampp\htdocs\PDC03\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\xampp\htdocs\PDC03\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\xampp\htdocs\PDC03\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+C:\xampp\htdocs\PDC03\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\xampp\htdocs\PDC03\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\xampp\htdocs\PDC03\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\xampp\htdocs\PDC03\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\xampp\htdocs\PDC03\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\xampp\htdocs\PDC03\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+C:\xampp\htdocs\PDC03\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+C:\xampp\htdocs\PDC03\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04.iOS\obj\iPhone\Debug\optimized\
+C:\xampp\htdocs\PDC03\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04.iOS\obj\iPhone\Debug\PDC03_MODULE04.iOS.csproj.AssemblyReference.cache
+C:\xampp\htdocs\PDC03\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04.iOS\obj\iPhone\Debug\PDC03_MODULE04.iOS.csproj.CoreCompileInputs.cache
